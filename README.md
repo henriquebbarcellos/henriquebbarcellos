@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Olá sou Henrique, programador <b>Front-End</b> estudando para chegar ao <b>Full-Stack</b> 
+ <h1>Me chamo Henrique Batista Barcellos</h1>
+ 
+ Sou programador <b>Front-End</b> estudando para chegar ao <b>Full-Stack</b> 
