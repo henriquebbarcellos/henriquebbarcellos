@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Olá sou Henrique, programo há 3 anos
-###aula
-saassa
+Olá sou Henrique, programador <b>Front-End</b> estudando para chegar ao <b>Full-Stack</b> 
