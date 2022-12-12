@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 <h3>Me chamo Henrique Barcellos</h3>
  
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquebbarcellos&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquebbarcellos&theme=dark&show_icons=true&layout=compact&langs_count=16)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquebbarcellos&theme=dracula&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquebbarcellos&theme=dracula&show_icons=true&layout=compact&langs_count=16)](https://github.com/anuraghazra/github-readme-stats)
