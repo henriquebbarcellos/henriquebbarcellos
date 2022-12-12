@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <h1>Olá meus amigos</h1>
- <h3>Me chamo Henrique Batista Barcellos</h3>
+<h3>Me chamo Henrique Barcellos</h3>
  
  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquebbarcellos&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquebbarcellos&layout=dark)](https://github.com/anuraghazra/github-readme-stats)
