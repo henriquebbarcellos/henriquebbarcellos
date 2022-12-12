@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Olá meus amigos</h1>
-<h3>Me chamo Henrique Barcellos</h3>
- 
+<h1>Olá, sou Henrique Barcellos.</h1>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
